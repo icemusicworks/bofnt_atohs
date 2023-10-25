@@ -1,0 +1,166 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "821b6f192011e6f8b1376cc63b5d00fa",
+      "info": {
+        "title": "Atohs",
+        "artist": "Music: Ice / Movie: Sand Suna",
+        "genre": "Inverted Ideology",
+        "subtitles": [
+          "SPA"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 12
+      },
+      "noteCount": 2571,
+      "bpm": {
+        "init": 195,
+        "min": 195,
+        "median": 195,
+        "max": 195
+      },
+      "duration": 168,
+      "scratch": true,
+      "keys": "7K",
+      "bga": {
+        "file": "atohs-no-sound.mpeg",
+        "offset": 2.1538461538461537
+      },
+      "file": "Atohs_SPA.bmson"
+    },
+    {
+      "md5": "2380cf40f618077be871acb3ec25babd",
+      "info": {
+        "title": "Atohs",
+        "artist": "Music: Ice / Movie: Sand Suna",
+        "genre": "Inverted Ideology",
+        "subtitles": [
+          "SPB"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 3
+      },
+      "noteCount": 282,
+      "bpm": {
+        "init": 195,
+        "min": 195,
+        "median": 195,
+        "max": 195
+      },
+      "duration": 168,
+      "scratch": true,
+      "keys": "7K",
+      "bga": {
+        "file": "atohs-no-sound.mpeg",
+        "offset": 2.1538461538461537
+      },
+      "file": "Atohs_SPB.bmson"
+    },
+    {
+      "md5": "87c32543ee43da1a904f0ee26d7a05ff",
+      "info": {
+        "title": "Atohs",
+        "artist": "Music: Ice / Movie: Sand Suna",
+        "genre": "Inverted Ideology",
+        "subtitles": [
+          "SPH"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 11
+      },
+      "noteCount": 1606,
+      "bpm": {
+        "init": 195,
+        "min": 195,
+        "median": 195,
+        "max": 195
+      },
+      "duration": 168,
+      "scratch": true,
+      "keys": "7K",
+      "bga": {
+        "file": "atohs-no-sound.mpeg",
+        "offset": 2.1538461538461537
+      },
+      "file": "Atohs_SPH.bmson"
+    },
+    {
+      "md5": "09b34305c5487e0efc7e158c6f4ae75c",
+      "info": {
+        "title": "Atohs",
+        "artist": "Music: Ice / Movie: Sand Suna",
+        "genre": "Inverted Ideology",
+        "subtitles": [
+          "SPL"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 12
+      },
+      "noteCount": 2763,
+      "bpm": {
+        "init": 195,
+        "min": 195,
+        "median": 195,
+        "max": 195
+      },
+      "duration": 168,
+      "scratch": true,
+      "keys": "7K",
+      "bga": {
+        "file": "atohs-no-sound.mpeg",
+        "offset": 2.1538461538461537
+      },
+      "file": "Atohs_SPL.bmson"
+    },
+    {
+      "md5": "d4d995cf1e3d8e1a64a5eb0edc809568",
+      "info": {
+        "title": "Atohs",
+        "artist": "Music: Ice / Movie: Sand Suna",
+        "genre": "Inverted Ideology",
+        "subtitles": [
+          "SPN"
+        ],
+        "subartists": [],
+        "difficulty": 0,
+        "level": 9
+      },
+      "noteCount": 1005,
+      "bpm": {
+        "init": 195,
+        "min": 195,
+        "median": 195,
+        "max": 195
+      },
+      "duration": 168,
+      "scratch": true,
+      "keys": "7K",
+      "bga": {
+        "file": "atohs-no-sound.mpeg",
+        "offset": 2.1538461538461537
+      },
+      "file": "Atohs_SPN.bmson"
+    }
+  ],
+  "title": "Atohs",
+  "artist": "Music: Ice / Movie: Sand Suna",
+  "genre": "Inverted Ideology",
+  "bpm": 195,
+  "replaygain": "-6.57 dB",
+  "preview_offset": 80,
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "https://soundcloud.com/iceloki/ice-x-sand-suna-atohs",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=429&event=142",
+  "youtube_url": "https://youtu.be/cakiXOxNIJk",
+  "artist_url": "https://twitter.com/ice_loki",
+  "readme": "README.md",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
+  "video_url": "bemuse-data/bga.mp4",
+  "video_offset": 2.23,
+  "bmssearch_id": "YnruF3Ox7RruFA"
+}
